@@ -1,7 +1,8 @@
 package com.steffens.weixin.demo002.webchat.controller;
 
-import com.webchat.service.WeChatService;
-import com.webchat.util.WeChatUtil;
+
+import com.steffens.weixin.demo002.webchat.service.WeChatService;
+import com.steffens.weixin.demo002.webchat.util.WeChatUtil;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.web.servlet.ServletComponentScan;
 import org.springframework.web.bind.annotation.GetMapping;

@@ -1,6 +1,7 @@
 package com.steffens.weixin.demo002.song.repository;
 
-import com.song.entity.User;
+
+import com.steffens.weixin.demo002.song.entity.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.query.Param;

@@ -1,7 +1,8 @@
 package com.steffens.weixin.demo002.song.controller;
 
-import com.song.entity.User;
-import com.song.service.UserService;
+
+import com.steffens.weixin.demo002.song.entity.User;
+import com.steffens.weixin.demo002.song.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;

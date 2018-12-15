@@ -6,9 +6,10 @@ package com.steffens.weixin.demo002.webchat.service;
  * @描述 文件创建
  */
 
-import com.webchat.entity.ArticleItem;
-import com.webchat.util.WeChatContant;
-import com.webchat.util.WeChatUtil;
+
+import com.steffens.weixin.demo002.webchat.entity.ArticleItem;
+import com.steffens.weixin.demo002.webchat.util.WeChatContant;
+import com.steffens.weixin.demo002.webchat.util.WeChatUtil;
 import org.springframework.stereotype.Service;
 
 import javax.servlet.http.HttpServletRequest;

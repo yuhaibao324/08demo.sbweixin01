@@ -1,7 +1,8 @@
 package com.steffens.weixin.demo002.song.service;
 
-import com.song.entity.User;
-import com.song.repository.UserRepositoty;
+
+import com.steffens.weixin.demo002.song.entity.User;
+import com.steffens.weixin.demo002.song.repository.UserRepositoty;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
