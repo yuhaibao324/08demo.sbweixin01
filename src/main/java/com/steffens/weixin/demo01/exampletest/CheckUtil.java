@@ -1,10 +1,11 @@
-package com.steffens.weixin.demo01;
+package com.steffens.weixin.demo01.exampletest;
 
 /**
  * @创建人 steffens
  * @创建时间 2018/12/15
  * @描述 文件创建
  */
+
 import java.util.Arrays;
 
 /**
