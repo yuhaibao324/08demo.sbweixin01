@@ -1,4 +1,4 @@
-package com.steffens.weixin.demo01.util;
+package com.steffens.weixin.demo01.nowtest.util;
 
 /**
  * @创建人 steffens
