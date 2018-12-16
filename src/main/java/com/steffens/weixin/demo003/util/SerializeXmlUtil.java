@@ -1,4 +1,4 @@
-package com.steffens.weixin.demo01.nowtest.util;
+package com.steffens.weixin.demo003.util;
 
 /**
  * @创建人 steffens
@@ -6,7 +6,7 @@ package com.steffens.weixin.demo01.nowtest.util;
  * @描述 文件创建
  */
 
-import com.steffens.weixin.demo01.nowtest.config.XStreamCDATA;
+import com.steffens.weixin.demo003.config.XStreamCDATA;
 import com.thoughtworks.xstream.XStream;
 import com.thoughtworks.xstream.annotations.XStreamAlias;
 import com.thoughtworks.xstream.core.util.QuickWriter;

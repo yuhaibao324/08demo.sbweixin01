@@ -48,9 +48,14 @@
         </dependency>
         <!--xml格式化工具-->
         <dependency>
+            <groupId>dom4j</groupId>
+            <artifactId>dom4j</artifactId>
+            <version>1.6</version>
+        </dependency>
+        <dependency>
             <groupId>com.thoughtworks.xstream</groupId>
             <artifactId>xstream</artifactId>
-            <version>1.4.10-java7</version>
+            <version>1.4.9</version>
         </dependency>
     </dependencies>
 

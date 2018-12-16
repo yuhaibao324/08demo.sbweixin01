@@ -1,4 +1,4 @@
-package com.steffens.weixin.demo01.nowtest.controller;
+package com.steffens.weixin.demo003.controller;
 
 /**
  * @创建人 steffens
@@ -6,12 +6,12 @@ package com.steffens.weixin.demo01.nowtest.controller;
  * @描述 文件创建
  */
 
-import com.steffens.weixin.demo01.nowtest.config.MsgType;
-import com.steffens.weixin.demo01.nowtest.entity.ImageMessage;
-import com.steffens.weixin.demo01.nowtest.entity.wechatInputMessage;
-import com.steffens.weixin.demo01.nowtest.entity.wechatOutputMessage;
-import com.steffens.weixin.demo01.nowtest.util.SerializeXmlUtil;
-import com.steffens.weixin.demo01.exampletest.SHA1;
+import com.steffens.weixin.demo003.config.MsgType;
+import com.steffens.weixin.demo003.entity.ImageMessage;
+import com.steffens.weixin.demo003.entity.wechatInputMessage;
+import com.steffens.weixin.demo003.entity.wechatOutputMessage;
+import com.steffens.weixin.demo003.util.SerializeXmlUtil;
+import com.steffens.weixin.demo001.exampletest.SHA1;
 import com.thoughtworks.xstream.XStream;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;

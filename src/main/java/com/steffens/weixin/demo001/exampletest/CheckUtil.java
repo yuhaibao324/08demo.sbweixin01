@@ -1,4 +1,4 @@
-package com.steffens.weixin.demo01.exampletest;
+package com.steffens.weixin.demo001.exampletest;
 
 /**
  * @创建人 steffens
@@ -17,7 +17,8 @@ import java.util.Arrays;
  */
 public class CheckUtil {
 
-    private static final String token = "mail123456";
+    private static final String token = "test123456";
+
     public static boolean checkSignature(String signature,String timestamp,String nonce){
         String[] str = new String[]{token,timestamp,nonce};
         //排序

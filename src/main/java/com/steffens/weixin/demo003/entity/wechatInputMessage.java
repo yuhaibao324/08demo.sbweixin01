@@ -1,4 +1,4 @@
-package com.steffens.weixin.demo01.nowtest.entity;
+package com.steffens.weixin.demo003.entity;
 
 /**
  * @创建人 steffens

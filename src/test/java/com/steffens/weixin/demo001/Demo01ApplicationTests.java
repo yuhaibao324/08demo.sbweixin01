@@ -1,4 +1,4 @@
-package com.steffens.weixin.demo01;
+package com.steffens.weixin.demo001;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
